@@ -1,0 +1,4 @@
+﻿index_name,index_symbol,method_used,rows,start_date,end_date,success,error
+沪深300,sh000300,stock_zh_index_daily,2305,2016-01-04,2025-07-01,True,
+上证指数,sh000001,stock_zh_index_daily,2305,2016-01-04,2025-07-01,True,
+创业板指,sz399006,stock_zh_index_daily,2305,2016-01-04,2025-07-01,True,

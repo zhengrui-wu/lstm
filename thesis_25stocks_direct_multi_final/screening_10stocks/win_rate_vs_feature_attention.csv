@@ -1,0 +1,5 @@
+arch_model,win_count,valid_count,win_rate
+BaseLSTM,1,10,0.1
+FeatureAttention_Graph_LSTM,4,10,0.4
+FeatureAttention_TCN_LSTM,0,10,0.0
+FeatureAttention_Transformer_LSTM,1,10,0.1
