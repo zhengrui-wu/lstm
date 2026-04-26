@@ -1,3 +1,0 @@
-﻿type,name,first_fetch_rows,cached_fetch_rows,first_fetch_seconds,cached_fetch_seconds,first_method,cached_method
-board,白酒,1599,1599,1.2868,0.0198,,
-market,sh000300,2305,2305,6.4698,0.0171,stock_zh_index_daily,cache
